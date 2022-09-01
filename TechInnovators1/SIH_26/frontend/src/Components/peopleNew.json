@@ -1,0 +1,3229 @@
+[
+  {
+      "_id": "6307961798affebcca184c1c",
+      "uid": "UN1",
+      "university": "Acharaya N.G.Ranga Agricultural\nUniversity",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c1d",
+      "uid": "UN2",
+      "university": "Acharya Nagarjuna University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c1e",
+      "uid": "UN3",
+      "university": "Adikavi Nannaya University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c1f",
+      "uid": "UN4",
+      "university": "Dr. N.T.R. University of Health Sciences",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c20",
+      "uid": "UN5",
+      "university": "Andhra University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c21",
+      "uid": "UN6",
+      "university": "Dr. B.R.Ambedkar University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c22",
+      "uid": "UN7",
+      "university": "Dravidian University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c23",
+      "uid": "UN8",
+      "university": "Jawaharlal Nehru Technological University (Kainada)",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c24",
+      "uid": "UN9",
+      "university": "Jawaharlal Nehru Technological\nUniversity (Anantapur)",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c25",
+      "uid": "UN10",
+      "university": "Krishna University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c26",
+      "uid": "UN11",
+      "university": "Rayalaseema University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c27",
+      "uid": "UN12",
+      "university": "Sri krishnadevaraya University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c28",
+      "uid": "UN13",
+      "university": "Sri Padmavati Mahila Vishwavidyalayam",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c29",
+      "uid": "UN14",
+      "university": "Sri Venkateswara University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c2a",
+      "uid": "UN15",
+      "university": "Sri Venkateswara Vedic University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c2b",
+      "uid": "UN16",
+      "university": "Sri Venkateswara Veterinary University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c2c",
+      "uid": "UN17",
+      "university": "Vikrama Simhapuri University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c2d",
+      "uid": "UN18",
+      "university": "Yogi Vemana University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c2e",
+      "uid": "UN19",
+      "university": "Damodaram Sanjivayya National Law\nUniversity",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c2f",
+      "uid": "UN20",
+      "university": "Dr. Y.S.R. Horticultural University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c30",
+      "uid": "UN21",
+      "university": "Sri Venkateswara Institute of Medical\nSciences",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c31",
+      "uid": "UN22",
+      "university": "Dr. Abdul Haq Urdu University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c32",
+      "uid": "UN23",
+      "university": "Rajiv Gandhi University of Knowledge\nTechnologies",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c33",
+      "uid": "UN24",
+      "university": "Dr Y. S. R. Architecture & Fine Arts\nUniversity",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c34",
+      "uid": "UN25",
+      "university": "Cluster University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c35",
+      "uid": "UN26",
+      "university": "Jawaharlal Nehru Technological\nUniversity",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c36",
+      "uid": "UN27",
+      "university": "Andhra Kesari University",
+      "State": "Andhra\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c37",
+      "uid": "UN28",
+      "university": "Birangana Sati Sadhani Rajyik\nVishwavidyalaya",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c38",
+      "uid": "UN29",
+      "university": "Madhabdev University",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c39",
+      "uid": "UN30",
+      "university": "Sri Sri Aniruddhdeva Sports University",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c3a",
+      "uid": "UN31",
+      "university": "Majuli University of Culture,",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c3b",
+      "uid": "UN32",
+      "university": "Rabindranath Tagore University",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c3c",
+      "uid": "UN33",
+      "university": "Bhattadev University",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c3d",
+      "uid": "UN34",
+      "university": "Assam Women's University",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c3e",
+      "uid": "UN35",
+      "university": "National Law University and Judicial Academy",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c3f",
+      "uid": "UN36",
+      "university": "Bodoland University",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c40",
+      "uid": "UN37",
+      "university": "Assam Rajiv Gandhi University of Co-\noperative Management",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c41",
+      "uid": "UN38",
+      "university": "Assam Science & Technology University",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c42",
+      "uid": "UN39",
+      "university": "Kumar Bhaskar Varma Sanskrit & Ancient NAMATI, HATI NAMATI, NALBARI,\nStudies University ASSAM-781337, INDIA P.O.- Hati\nNamati Dist-Nalbari,Assam ,\nAssam -781337",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c43",
+      "uid": "UN40",
+      "university": "Cotton University",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c44",
+      "uid": "UN41",
+      "university": "Srimanta Sankaradeva University of\nHealth Sciences",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c45",
+      "uid": "UN42",
+      "university": "Krishna Kanta Handiqui State Open\nUniversity",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c46",
+      "uid": "UN43",
+      "university": "Gauhati University",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c47",
+      "uid": "UN44",
+      "university": "Dibrugarh University",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c48",
+      "uid": "UN45",
+      "university": "Assam Agricultural University",
+      "State": "Assam",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c49",
+      "uid": "UN46",
+      "university": "Babasaheb Bhimrao Ambedkar Bihar\nUniversity",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c4a",
+      "uid": "UN47",
+      "university": "Bhupendra Narayan Mandal University",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c4b",
+      "uid": "UN48",
+      "university": "Chanakya National Law University",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c4c",
+      "uid": "UN49",
+      "university": "Lalit Narayan Mithila University",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c4d",
+      "uid": "UN50",
+      "university": "Kameshwar Singh Darbhanga Sanskrit\nVishwavidyalaya",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c4e",
+      "uid": "UN51",
+      "university": "Jai Prakash vishwavidyalaya(university)",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c4f",
+      "uid": "UN52",
+      "university": "Magadh University",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c50",
+      "uid": "UN53",
+      "university": "Maulana Mazharul Haque Arabic &\nPersian University",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c51",
+      "uid": "UN54",
+      "university": "Nalanda Open University",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c52",
+      "uid": "UN55",
+      "university": "Bihar Agricultural University",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c53",
+      "uid": "UN56",
+      "university": "Patna University",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c54",
+      "uid": "UN57",
+      "university": "Arybhatta Knowledge University",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c55",
+      "uid": "UN58",
+      "university": "Veer Kunwar Singh University",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c56",
+      "uid": "UN59",
+      "university": "T.M. Bhagalpur University",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c57",
+      "uid": "UN60",
+      "university": "Rajendra Agricultural University",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c58",
+      "uid": "UN61",
+      "university": "Munger University",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c59",
+      "uid": "UN62",
+      "university": "Purnea University",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c5a",
+      "uid": "UN63",
+      "university": "Patliputra University",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c5b",
+      "uid": "UN64",
+      "university": "Bihar Animal Sciences University",
+      "State": "Bihar",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c5c",
+      "uid": "UN65",
+      "university": "Punjab University",
+      "State": "Chandigarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c5d",
+      "uid": "UN66",
+      "university": "Ayush and Health Sciences University of\nChhattisgarh",
+      "State": "Chhattisgarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c5e",
+      "uid": "UN67",
+      "university": "Atal Bihari Bajpayee Vishwavidyalaya\n(Formerly Bilaspur Vishwavidyalaya)",
+      "State": "Chhattisgarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c5f",
+      "uid": "UN68",
+      "university": "Chhattisgarh Kamdhenu Vishwavidyalaya Dau Shri Vasudev Chandrakar Kamdhenu\nVishwavidyala, Anjora, Durg ,\nChhattisgarh-491001",
+      "State": "Chhattisgarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c60",
+      "uid": "UN69",
+      "university": "Sant Gahira Guru Vishwavidyalaya\n(formerly Sarguja University)",
+      "State": "Chhattisgarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c61",
+      "uid": "UN70",
+      "university": "Pandit Sundarlal Sharma (Open)\nUniversity",
+      "State": "Chhattisgarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c62",
+      "uid": "UN71",
+      "university": "Pt. Ravishankar Shukla University",
+      "State": "Chhattisgarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c63",
+      "uid": "UN72",
+      "university": "Hidayatullah National Law University",
+      "State": "Chhattisgarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c64",
+      "uid": "UN73",
+      "university": "Kushabhau Thakre Patrakarita Avam Jansanchar Vishwavidyalaya",
+      "State": "Chhattisgarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c65",
+      "uid": "UN74",
+      "university": "Chhattisgarh Swami Vivekanad Technical\nUniversty",
+      "State": "Chhattisgarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c66",
+      "uid": "UN75",
+      "university": "Shaheed Mahendra Karma Vishvidyalaya",
+      "State": "Chhattisgarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c67",
+      "uid": "UN76",
+      "university": "Indira Gandhi Krishi Vishwavidyalaya",
+      "State": "Chhattisgarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c68",
+      "uid": "UN77",
+      "university": "Indira Kala Sangeet Vishwavidyalaya",
+      "State": "Chhattisgarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c69",
+      "uid": "UN78",
+      "university": "Mahatma Gandhi Udyanikee and Vanikee\nVishwavidyalaya",
+      "State": "Chhattisgarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c6a",
+      "uid": "UN79",
+      "university": "Shaheed Nandkumar Patel\nVishwavidyalaya",
+      "State": "Chhattisgarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c6b",
+      "uid": "UN80",
+      "university": "Hemchand Yadav\nVishwavidyalaya(Earlier known as Durg\nVishwavidyalaya)",
+      "State": "Chhattisgarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c6c",
+      "uid": "UN81",
+      "university": "International Institute of Information\nTechnology",
+      "State": "Chhattisgarh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c6d",
+      "uid": "UN82",
+      "university": "Indira Gandhi Delhi Technical University\nfor Women",
+      "State": "Delhi",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c6e",
+      "uid": "UN83",
+      "university": "Delhi Pharmaceutical Sciences &\nResearch University",
+      "State": "Delhi",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c6f",
+      "uid": "UN84",
+      "university": "Delhi Skill and Entrepreneurship\nUniversity",
+      "State": "Delhi",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c70",
+      "uid": "UN85",
+      "university": "Delhi Sports University",
+      "State": "Delhi",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c71",
+      "uid": "UN86",
+      "university": "Delhi Teachers University",
+      "State": "Delhi",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c72",
+      "uid": "UN87",
+      "university": "Netaji Subhas University of Technology",
+      "State": "Delhi",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c73",
+      "uid": "UN88",
+      "university": "National Law University",
+      "State": "Delhi",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c74",
+      "uid": "UN89",
+      "university": "Indraprastha Institute of Information\nTechnology",
+      "State": "Delhi",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c75",
+      "uid": "UN90",
+      "university": "Guru Gobind Singh Indraprastha\nVishwavidyalaya",
+      "State": "Delhi",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c76",
+      "uid": "UN91",
+      "university": "Delhi Technological University",
+      "State": "Delhi",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c77",
+      "uid": "UN92",
+      "university": "Dr. B.R. Ambedkar University",
+      "State": "Delhi",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c78",
+      "uid": "UN93",
+      "university": "Goa University",
+      "State": "Goa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c79",
+      "uid": "UN94",
+      "university": "Gujarat Ayurveda University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c7a",
+      "uid": "UN95",
+      "university": "Gujarat National Law University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c7b",
+      "uid": "UN96",
+      "university": "Gujarat Technological University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c7c",
+      "uid": "UN97",
+      "university": "Gujarat University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c7d",
+      "uid": "UN98",
+      "university": "Hemchandracharya North Gujarat\nUniversity",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c7e",
+      "uid": "UN99",
+      "university": "Dharmsinh Desai University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c7f",
+      "uid": "UN100",
+      "university": "Dr. Babasaheb Ambedkar Open University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c80",
+      "uid": "UN101",
+      "university": "Anand Agricultural University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c81",
+      "uid": "UN102",
+      "university": "Krishnakumarsinhji Bhavnagar University Gauri Shankar Lake Road, Bhavnagar ,\nGujarat -364 001",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c82",
+      "uid": "UN103",
+      "university": "Krantiguru Shyamji Krishna Verma\nKachchh University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c83",
+      "uid": "UN104",
+      "university": "Maharaja Sayajirao University of Baroda",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c84",
+      "uid": "UN105",
+      "university": "Junagarh Agricultural University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c85",
+      "uid": "UN106",
+      "university": "Swarnim Gujarat Sports University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c86",
+      "uid": "UN107",
+      "university": "Indian Institute of Teacher Education",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c87",
+      "uid": "UN108",
+      "university": "Children's University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c88",
+      "uid": "UN109",
+      "university": "Sardar Patel University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c89",
+      "uid": "UN110",
+      "university": "Saurashtra University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c8a",
+      "uid": "UN111",
+      "university": "Shree Somnath Sanskrit University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c8b",
+      "uid": "UN112",
+      "university": "Veer Narmad South Gujarat University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c8c",
+      "uid": "UN113",
+      "university": "Birsa Munda Tribal University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c8d",
+      "uid": "UN114",
+      "university": "Gujarat Biotechnology University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c8e",
+      "uid": "UN115",
+      "university": "Gujarat University of Transplantation Sciences",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c8f",
+      "uid": "UN116",
+      "university": "Institute of Infrastructure Technology\nResearch and Management",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c90",
+      "uid": "UN117",
+      "university": "Navsari Agriculture University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c91",
+      "uid": "UN118",
+      "university": "Bhakta Kavi Narsinh Mehta University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c92",
+      "uid": "UN119",
+      "university": "Shri Govind Guru University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c93",
+      "uid": "UN120",
+      "university": "Sardar Krushinagar Dantiwada Agricultural University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c94",
+      "uid": "UN121",
+      "university": "Kamdhenu University",
+      "State": "Gujarat",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c95",
+      "uid": "UN122",
+      "university": "Shri Vishwakarma Skill University",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c96",
+      "uid": "UN123",
+      "university": "Maharana Partap Horticultural University",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c97",
+      "uid": "UN124",
+      "university": "Chaudhary Bansi Lal University",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c98",
+      "uid": "UN125",
+      "university": "Chaudhary Ranbir Singh University",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c99",
+      "uid": "UN126",
+      "university": "Pandit Lakhmi Chand State University of\nPerforming and Visual Arts (SUPVA)",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c9a",
+      "uid": "UN127",
+      "university": "Shri Krishna AYUSH University",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c9b",
+      "uid": "UN128",
+      "university": "Maharishi Balmiki Sanskrit University",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c9c",
+      "uid": "UN129",
+      "university": "Gurugram University",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c9d",
+      "uid": "UN130",
+      "university": "Dr. B.R. Ambedkar National Law University",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c9e",
+      "uid": "UN131",
+      "university": "Pt. Bhagwat Dayal Sharma University of\nHealth Sciences",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184c9f",
+      "uid": "UN132",
+      "university": "Indira Gandhi University",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ca0",
+      "uid": "UN133",
+      "university": "Lala Lajpat Rai University of Veterinary\n& Animal Sciences",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ca1",
+      "uid": "UN134",
+      "university": "J. C. Bose University of Science &\nTechnology, YMCA",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ca2",
+      "uid": "UN135",
+      "university": "Maharishi Dayanand University",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ca3",
+      "uid": "UN136",
+      "university": "Kurukshetra University",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ca4",
+      "uid": "UN137",
+      "university": "Choudhary Charan Singh Haryana\nAgricultural Univeersity",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ca5",
+      "uid": "UN138",
+      "university": "Chaudhary Devi Lal University",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ca6",
+      "uid": "UN139",
+      "university": "Bhagat Phool Singh Mahila\nVishwavidyalaya",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ca7",
+      "uid": "UN140",
+      "university": "Deen Bandhu Chhotu Ram University of\nSciences & Technology",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ca8",
+      "uid": "UN141",
+      "university": "Guru Jambeshwar University of Science and Technology",
+      "State": "Haryana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ca9",
+      "uid": "UN142",
+      "university": "Dr. Y.S.Parmar University of Horticulture\n& Forestry",
+      "State": "Himachal\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184caa",
+      "uid": "UN143",
+      "university": "Chaudhary Sarwan Kumar Himachal\nPradesh Krishi Vishvavidyalaya",
+      "State": "Himachal\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cab",
+      "uid": "UN144",
+      "university": "Himachal Pradesh University",
+      "State": "Himachal\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cac",
+      "uid": "UN145",
+      "university": "Himachal Pradesh Technical University",
+      "State": "Himachal\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cad",
+      "uid": "UN146",
+      "university": "Atal Medical and Research\nUniversity(Formerly Himachal Pradesh\nUniversity of Health Sciences)",
+      "State": "Himachal\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cae",
+      "uid": "UN147",
+      "university": "Sardar Vallabhbhai Patel Cluster\nUniversity",
+      "State": "Himachal\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184caf",
+      "uid": "UN148",
+      "university": "Himachal Pradesh National Law University",
+      "State": "Himachal Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cb0",
+      "uid": "UN149",
+      "university": "Cluster University of Srinagar",
+      "State": "Jammu and\nKashmir",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cb1",
+      "uid": "UN150",
+      "university": "Cluster University of Jammu",
+      "State": "Jammu and\nKashmir",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cb2",
+      "uid": "UN151",
+      "university": "Sher-e-Kashmir University of Agricultural Jammu ,\nScience & Technology, Jammu Jammu and Kashmir -",
+      "State": "Jammu and\nKashmir",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cb3",
+      "uid": "UN152",
+      "university": "Sher-e-Kashmir University of Agricultural Shalimar, srinagar J and K Srinagar-190\nScience & Technology 001. (J&K) ,\nJammu and Kashmir -190025",
+      "State": "Jammu and\nKashmir",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cb4",
+      "uid": "UN153",
+      "university": "Shri Mata Vaishno Devi University",
+      "State": "Jammu and\nKashmir",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cb5",
+      "uid": "UN154",
+      "university": "Jammu University",
+      "State": "Jammu and\nKashmir",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cb6",
+      "uid": "UN155",
+      "university": "Kashmir University",
+      "State": "Jammu and\nKashmir",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cb7",
+      "uid": "UN156",
+      "university": "Islamic University of Sciences &\nTechnology University",
+      "State": "Jammu and\nKashmir",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cb8",
+      "uid": "UN157",
+      "university": "Baba Ghulam Shah Badshah University",
+      "State": "Jammu and\nKashmir",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cb9",
+      "uid": "UN158",
+      "university": "Birsa Agricultural University",
+      "State": "Jharkhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cba",
+      "uid": "UN159",
+      "university": "Kolhan University",
+      "State": "Jharkhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cbb",
+      "uid": "UN160",
+      "university": "Sido Kanhu Murmu University",
+      "State": "Jharkhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cbc",
+      "uid": "UN161",
+      "university": "Ranchi University",
+      "State": "Jharkhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cbd",
+      "uid": "UN162",
+      "university": "Nilamber-Pitamber University",
+      "State": "Jharkhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cbe",
+      "uid": "UN163",
+      "university": "National University of Study & Research\nin Law",
+      "State": "Jharkhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cbf",
+      "uid": "UN164",
+      "university": "Vinoba Bhave University",
+      "State": "Jharkhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cc0",
+      "uid": "UN165",
+      "university": "Jharkhand University of Technology",
+      "State": "Jharkhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cc1",
+      "uid": "UN166",
+      "university": "Binod Bihari Mahto Koylanchal\nUniversity",
+      "State": "Jharkhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cc2",
+      "uid": "UN167",
+      "university": "Dr. Shyama Prasad Mukherjee University",
+      "State": "Jharkhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cc3",
+      "uid": "UN168",
+      "university": "Jharkhand Raksha Shakti University",
+      "State": "Jharkhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cc4",
+      "uid": "UN169",
+      "university": "University of Horticultural Sciences",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cc5",
+      "uid": "UN170",
+      "university": "Karnataka State Rural Development and Panchayat Raj University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cc6",
+      "uid": "UN171",
+      "university": "University of Agricultural Sciences",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cc7",
+      "uid": "UN172",
+      "university": "Bengaluru North University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cc8",
+      "uid": "UN173",
+      "university": "Bengaluru City University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cc9",
+      "uid": "UN174",
+      "university": "Mandya University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cca",
+      "uid": "UN175",
+      "university": "Bengaluru Dr. B. R. Ambedkar School of\nEconomics University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ccb",
+      "uid": "UN176",
+      "university": "Karnataka Janapada Vishwavidyalaya",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ccc",
+      "uid": "UN177",
+      "university": "Nrupathunga University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ccd",
+      "uid": "UN178",
+      "university": "Raichur University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cce",
+      "uid": "UN179",
+      "university": "Maharani Cluster University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ccf",
+      "uid": "UN180",
+      "university": "Vesveswaraiah Technological University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cd0",
+      "uid": "UN181",
+      "university": "Rani Channamma University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cd1",
+      "uid": "UN182",
+      "university": "Vijayanagara Sri Krishnadevaraya\nUniversity",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cd2",
+      "uid": "UN183",
+      "university": "Karnataka Samskrit University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cd3",
+      "uid": "UN184",
+      "university": "KSGH Music and Performing Arts\nUniversity",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cd4",
+      "uid": "UN185",
+      "university": "Karnataka Folklore University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cd5",
+      "uid": "UN186",
+      "university": "Rajiv Gandhi University of Health\nScience",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cd6",
+      "uid": "UN187",
+      "university": "Tumkur University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cd7",
+      "uid": "UN188",
+      "university": "University of Agricultural Sciences\nBanglore",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cd8",
+      "uid": "UN189",
+      "university": "University of Agricultural Sciences\nDharwad",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cd9",
+      "uid": "UN190",
+      "university": "Akkamahadevi women's University\n(Formerly known as \"Karnataka State\nWomen's University)",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cda",
+      "uid": "UN191",
+      "university": "Karnataka University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cdb",
+      "uid": "UN192",
+      "university": "Karnataka Veterinary, Animal & Fisheries Nandinagar PB No.6,Bidar-\nScience University 585401(Karnataka ,\nKarnataka -585226",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cdc",
+      "uid": "UN193",
+      "university": "Kuvempu University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cdd",
+      "uid": "UN194",
+      "university": "Karnataka State Law University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cde",
+      "uid": "UN195",
+      "university": "Karnataka State Open University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cdf",
+      "uid": "UN196",
+      "university": "Kannada University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ce0",
+      "uid": "UN197",
+      "university": "National law School of India University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ce1",
+      "uid": "UN198",
+      "university": "Mysore University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ce2",
+      "uid": "UN199",
+      "university": "Mangalore University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ce3",
+      "uid": "UN200",
+      "university": "Bangalore University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ce4",
+      "uid": "UN201",
+      "university": "Gulbarga University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ce5",
+      "uid": "UN202",
+      "university": "Davangere University",
+      "State": "Karnataka",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ce6",
+      "uid": "UN203",
+      "university": "Cochin Unviersity of Science &\nTechnology",
+      "State": "Kerala",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ce7",
+      "uid": "UN204",
+      "university": "Calicut University",
+      "State": "Kerala",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ce8",
+      "uid": "UN205",
+      "university": "National University of Advanced Legal\nStudies (NUALS)",
+      "State": "Kerala",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ce9",
+      "uid": "UN206",
+      "university": "Mahatma Gandhi Unversity",
+      "State": "Kerala",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cea",
+      "uid": "UN207",
+      "university": "Kannur University",
+      "State": "Kerala",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ceb",
+      "uid": "UN208",
+      "university": "Kerala University",
+      "State": "Kerala",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cec",
+      "uid": "UN209",
+      "university": "Kerala Agricultural Unviersity",
+      "State": "Kerala",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ced",
+      "uid": "UN210",
+      "university": "Shree Sankaracharaya University of\nSanskrit",
+      "State": "Kerala",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cee",
+      "uid": "UN211",
+      "university": "Thunchath Ezhuthachan Malayalam\nUniversity",
+      "State": "Kerala",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cef",
+      "uid": "UN212",
+      "university": "Kerala University of Fisheries & Ocean\nStudies",
+      "State": "Kerala",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cf0",
+      "uid": "UN213",
+      "university": "Kerala Veterinary & Animal Sciences University",
+      "State": "Kerala",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cf1",
+      "uid": "UN214",
+      "university": "Kerala University of Health Sciences",
+      "State": "Kerala",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cf2",
+      "uid": "UN215",
+      "university": "Sree Narayanguru Open University",
+      "State": "Kerala",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cf3",
+      "uid": "UN216",
+      "university": "Kerala University of Digital Sciences\nInnovation and Technology",
+      "State": "Kerala",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cf4",
+      "uid": "UN217",
+      "university": "A.P.J. Abdul Kalam Technological\nUniversity",
+      "State": "Kerala",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cf5",
+      "uid": "UN218",
+      "university": "University of Ladakh",
+      "State": "Ladakh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cf6",
+      "uid": "UN219",
+      "university": "Raja Shankar Shah University,\nChhindwara",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cf7",
+      "uid": "UN220",
+      "university": "Sanchi University of Buddhist-Indic\nStudies",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cf8",
+      "uid": "UN221",
+      "university": "Maharaja Chhatrasal Bundelkhand\nVishwavidyalaya",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cf9",
+      "uid": "UN222",
+      "university": "Dr. B. R. Ambedkar University of Social\nSciences",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cfa",
+      "uid": "UN223",
+      "university": "Dharmashastra National Law University",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cfb",
+      "uid": "UN224",
+      "university": "Pandit S N Shukla University",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cfc",
+      "uid": "UN225",
+      "university": "Nanaji Deshmukh Pashu Chikitsa Vigyan\nVishwavidyalaya",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cfd",
+      "uid": "UN226",
+      "university": "Vikram University",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cfe",
+      "uid": "UN227",
+      "university": "Raja Mansingh Tomar Music & Arts\nUniversity",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184cff",
+      "uid": "UN228",
+      "university": "Atal Bihari Vajpayee Hindi\nVishwavidyalaya",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d00",
+      "uid": "UN229",
+      "university": "Rajmata Vijayaraje Scindia Krishi Vishwa Opp. Mela Ground Race Course Road\nVidyalaya Gwalior,Madhya Pradesh ,\nMadhya Pradesh -474 002",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d01",
+      "uid": "UN230",
+      "university": "Rajiv Gandhi Prodoyogiki\nVishwavidyalaya",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d02",
+      "uid": "UN231",
+      "university": "Rani Durgavati Vishwavidyalaya",
+      "State": "Madhya",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d03",
+      "uid": "UN232",
+      "university": "Jiwaji University",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d04",
+      "uid": "UN233",
+      "university": "Jawaharlal Nehru Krishi Vishwavidyalaya Krishinagar Jabalpur-482 004. ,\nMadhya Pradesh -",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d05",
+      "uid": "UN234",
+      "university": "Maharshi Panini Sanskrit Evam Vedic\nVishwavidyalaya",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d06",
+      "uid": "UN235",
+      "university": "Mahatma Gandhi Chitrakoot Gramodaya\nVishwavidyalaya",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d07",
+      "uid": "UN236",
+      "university": "M.P.Bhoj (open) University",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d08",
+      "uid": "UN237",
+      "university": "National Law Institute University",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d09",
+      "uid": "UN238",
+      "university": "Makhanlal Chaturvedi National University B-38, Vikas Bhavan, Press Complex, MP\nof Journalism & Communication Nagar, Zone-1 Bhopal ,\nMadhya Pradesh -462 011",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d0a",
+      "uid": "UN239",
+      "university": "Barkatullaah University",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d0b",
+      "uid": "UN240",
+      "university": "Awadesh Pratap Singh University",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d0c",
+      "uid": "UN241",
+      "university": "Devi Ahilya Vishwavidyalaya",
+      "State": "Madhya\nPradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d0d",
+      "uid": "UN242",
+      "university": "Dr. Babasaheb Ambedkar Marathwada\nUniversity",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d0e",
+      "uid": "UN243",
+      "university": "Dr. Babasaheb AmbedkarTechnological University ",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d0f",
+      "uid": "UN244",
+      "university": "Dr. Punjabrao Deshmukh Krishi\nVidyapeeth",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d10",
+      "uid": "UN245",
+      "university": "Marathwada Agricultural University",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d11",
+      "uid": "UN246",
+      "university": "Mumbai University",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d12",
+      "uid": "UN247",
+      "university": "Maharahtra University of Health Sciences Vani Dindori Road, Mhasrul, Nashik\nNashik-422 005 ,\nMaharashtra -422004",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d13",
+      "uid": "UN248",
+      "university": "Mahatma Phule Krishi Vidyapeeth",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d14",
+      "uid": "UN249",
+      "university": "Maharashtra Animal & Fishery Sciences\nUniversity",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d15",
+      "uid": "UN250",
+      "university": "Konkan Krishi Vidyapeeth",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d16",
+      "uid": "UN251",
+      "university": "Kavi Kulguru Kalidas Sanskrit Vishwavidyalaya",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d17",
+      "uid": "UN252",
+      "university": "Sant Gadge Baba Amravati University",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d18",
+      "uid": "UN253",
+      "university": "Shivaji University",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d19",
+      "uid": "UN254",
+      "university": "Kavayitri Bahinabai Chadhari North\nMaharashtra University",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d1a",
+      "uid": "UN255",
+      "university": "Savitribai Phule Pune University",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d1b",
+      "uid": "UN256",
+      "university": "Rashtrasant Tukadoji Maharaj Nagpur\nUniversity",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d1c",
+      "uid": "UN257",
+      "university": "Swami Ramanand Teerth Marathwada\nUniversity",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d1d",
+      "uid": "UN258",
+      "university": "Smt. Nathibai Damodar Thackersey\nWomen's University",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d1e",
+      "uid": "UN259",
+      "university": "Punyashlok Ahilyadevi Holkar Solapur University   ",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d1f",
+      "uid": "UN260",
+      "university": "Gondwana University",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d20",
+      "uid": "UN261",
+      "university": "Yashwant Rao Chavan Maharashtra Open\nUniversity",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d21",
+      "uid": "UN262",
+      "university": "Maharashtra National Law University",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d22",
+      "uid": "UN263",
+      "university": "Maharashtra National Law University,",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d23",
+      "uid": "UN264",
+      "university": "Maharashtra National Law University",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d24",
+      "uid": "UN265",
+      "university": "Dr. Homi Bhabha State University",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d25",
+      "uid": "UN266",
+      "university": "International Sports University,\nMaharashtra",
+      "State": "Maharashtra",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d26",
+      "uid": "UN267",
+      "university": "Dhanamanjuri University",
+      "State": "Manipur",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d27",
+      "uid": "UN268",
+      "university": "Manipur Technical University",
+      "State": "Manipur",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d28",
+      "uid": "UN269",
+      "university": "Manipur University of Culture",
+      "State": "Manipur",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d29",
+      "uid": "UN270",
+      "university": "Odisha State Open University",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d2a",
+      "uid": "UN271",
+      "university": "Gangadhar Meher University",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d2b",
+      "uid": "UN272",
+      "university": "Rama Devi Women's University",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d2c",
+      "uid": "UN273",
+      "university": "Veer Surendra Sai Institute of Medical\nScience and Research",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d2d",
+      "uid": "UN274",
+      "university": "Khallikote University",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d2e",
+      "uid": "UN275",
+      "university": "International Institute of Information\nTechnology (IIIT)",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d2f",
+      "uid": "UN276",
+      "university": "Kalahandi University",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d30",
+      "uid": "UN277",
+      "university": "Rajendra University",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d31",
+      "uid": "UN278",
+      "university": "Odisha University of Technology and\nResearch",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d32",
+      "uid": "UN279",
+      "university": "Madhusudan Law University",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d33",
+      "uid": "UN280",
+      "university": "Veer Surendra Sai University of\nTechnology",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d34",
+      "uid": "UN281",
+      "university": "National Law University",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d35",
+      "uid": "UN282",
+      "university": "North Orissa University",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d36",
+      "uid": "UN283",
+      "university": "Shri Jagannath Sanskrit Vishwavidyalaya",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d37",
+      "uid": "UN284",
+      "university": "Utkal University",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d38",
+      "uid": "UN285",
+      "university": "Utkal University of Culture",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d39",
+      "uid": "UN286",
+      "university": "Orissa University Of Agriculture &\nTechnology",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d3a",
+      "uid": "UN287",
+      "university": "Ravenshaw University",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d3b",
+      "uid": "UN288",
+      "university": "Sambalpur University",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d3c",
+      "uid": "UN289",
+      "university": "Fakir Mohan University",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d3d",
+      "uid": "UN290",
+      "university": "Berhampur University",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d3e",
+      "uid": "UN291",
+      "university": "Biju Patnaik University of Technology",
+      "State": "Orissa",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d3f",
+      "uid": "UN292",
+      "university": "Puducherry Technological University",
+      "State": "Puducherry",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d40",
+      "uid": "UN293",
+      "university": "Shaheed Bhagat Singh University",
+      "State": "Punjab",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d41",
+      "uid": "UN294",
+      "university": "The Maharaja Bhupinder Singh Punjab\nSports University",
+      "State": "Punjab",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d42",
+      "uid": "UN295",
+      "university": "Jagat Guru Nanak Dev Punjab State Open\nUniversity",
+      "State": "Punjab",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d43",
+      "uid": "UN296",
+      "university": "Sri Guru Teg Bahadur State University of\nLaw",
+      "State": "Punjab",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d44",
+      "uid": "UN297",
+      "university": "Maharaja Ranjit Singh Punjab Technical University",
+      "State": "Punjab",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d45",
+      "uid": "UN298",
+      "university": "Baba Farid University of Health Sciences",
+      "State": "Punjab",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d46",
+      "uid": "UN299",
+      "university": "Guru Angad Dev Veterinary & Animal\nSciences University",
+      "State": "Punjab",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d47",
+      "uid": "UN300",
+      "university": "Guru Nanak Dev University",
+      "State": "Punjab",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d48",
+      "uid": "UN301",
+      "university": "Punjab Agriculture University",
+      "State": "Punjab",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d49",
+      "uid": "UN302",
+      "university": "The I.K. Gujaral Punjab Technical\nUniversity",
+      "State": "Punjab",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d4a",
+      "uid": "UN303",
+      "university": "Punjabi University",
+      "State": "Punjab",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d4b",
+      "uid": "UN304",
+      "university": "Guru Ravidas Ayurved University",
+      "State": "Punjab",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d4c",
+      "uid": "UN305",
+      "university": "The Rajiv Gandhi National University of\nLaw",
+      "State": "Punjab",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d4d",
+      "uid": "UN306",
+      "university": "Maharaja Ganga Singh University",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d4e",
+      "uid": "UN307",
+      "university": "Rajasthan University of Veterinary & Animal Sciences",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d4f",
+      "uid": "UN308",
+      "university": "Sardar Patel University of Police, Security Opp. Gramin Police line Mathania Road,\n& Criminal Justice Daijar Jodhpur ,\nRajasthan-342 304",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d50",
+      "uid": "UN309",
+      "university": "Pandit Deendayal Upadhyaya Shekhawati\nUniversity",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d51",
+      "uid": "UN310",
+      "university": "Swami Keshwanand Rajasthan\nAgricultural University",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d52",
+      "uid": "UN311",
+      "university": "Rajasthan Ayurveda University",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d53",
+      "uid": "UN312",
+      "university": "Rajasthan Technical University",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d54",
+      "uid": "UN313",
+      "university": "Rajasthan University",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d55",
+      "uid": "UN314",
+      "university": "Rajasthan University of Health Sciences",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d56",
+      "uid": "UN315",
+      "university": "University of Kota",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d57",
+      "uid": "UN316",
+      "university": "Vardhman Mahaveer Open University",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d58",
+      "uid": "UN317",
+      "university": "Jagadguru Ramanandacharya Sanskrit\nUniversity",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d59",
+      "uid": "UN318",
+      "university": "Jai Narain Vyas University",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d5a",
+      "uid": "UN319",
+      "university": "Maharishi Dayanand Saraswati University Pushkar Bye Pass Ajmer ,\nRajasthan-305001",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d5b",
+      "uid": "UN320",
+      "university": "Maharana Pratap University of\nAgriculture & Technology",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d5c",
+      "uid": "UN321",
+      "university": "Mohanlal Sukhadia University",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d5d",
+      "uid": "UN322",
+      "university": "National Law University",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d5e",
+      "uid": "UN323",
+      "university": "Raj Rishi Bhartrihari Matsya University",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d5f",
+      "uid": "UN324",
+      "university": "Maharaja Surajmal Brij University",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d60",
+      "uid": "UN325",
+      "university": "Govind Guru Tribal University",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d61",
+      "uid": "UN326",
+      "university": "Rajasthan ILD Skills University (RISU)",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d62",
+      "uid": "UN327",
+      "university": "Haridev Joshi University of Journalism and Mass Communication",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d63",
+      "uid": "UN328",
+      "university": "Dr. Bhimrao Ambedkar Law University,\nJaipur",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d64",
+      "uid": "UN329",
+      "university": "Bikaner Technical University",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d65",
+      "uid": "UN330",
+      "university": "Agriculture University",
+      "State": "Rajasthan",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d66",
+      "uid": "UN331",
+      "university": "Sikkim National Law University",
+      "State": "Sikkim",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d67",
+      "uid": "UN332",
+      "university": "Khangchendzonga State University,\nSikkim",
+      "State": "Sikkim",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d68",
+      "uid": "UN333",
+      "university": "Mother Teresa Women's University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d69",
+      "uid": "UN334",
+      "university": "Manonmaniam Sundarnar University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d6a",
+      "uid": "UN335",
+      "university": "Madras University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d6b",
+      "uid": "UN336",
+      "university": "Madurai Kamraj University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d6c",
+      "uid": "UN337",
+      "university": "Anna University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d6d",
+      "uid": "UN338",
+      "university": "Annamalai University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d6e",
+      "uid": "UN339",
+      "university": "Alagappa University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d6f",
+      "uid": "UN340",
+      "university": "Bharathiar University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d70",
+      "uid": "UN341",
+      "university": "Bharathidasan University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d71",
+      "uid": "UN342",
+      "university": "Thiruvalluvar University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d72",
+      "uid": "UN343",
+      "university": "Tamil Nadu Open University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d73",
+      "uid": "UN344",
+      "university": "Tamil Nadu Teacher Education University Gangaiamman koil street, Karapakkam,\nChennai, ,\nTamil Nadu -600097",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d74",
+      "uid": "UN345",
+      "university": "Tamil University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d75",
+      "uid": "UN346",
+      "university": "Tamilnadu Agricultural University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d76",
+      "uid": "UN347",
+      "university": "Tamilnadu Dr. Ambedkar Law University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d77",
+      "uid": "UN348",
+      "university": "Tamilnadu Dr. M.G.R.Medical University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d78",
+      "uid": "UN349",
+      "university": "Tamil Nadu Physical Education and Sports Melakottaiyur, Chennai Sampat Maaligai,\nUniversity college Road, Chennai-600006 ,\nTamil Nadu -600127",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d79",
+      "uid": "UN350",
+      "university": "Tamilnadu Veterinary & Animal Sciences\nUniversity",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d7a",
+      "uid": "UN351",
+      "university": "Periyar University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d7b",
+      "uid": "UN352",
+      "university": "The Tamil Nadu Dr.J Jayalalithaa Music\nand Fine Arts University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d7c",
+      "uid": "UN353",
+      "university": "Tamil Nadu Fisheries University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d7d",
+      "uid": "UN354",
+      "university": "Tamilnadu National Law University",
+      "State": "Tamil Nadu",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d7e",
+      "uid": "UN355",
+      "university": "Rajiv Gandhi University of Knowledge Technology",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d7f",
+      "uid": "UN356",
+      "university": "Jawaharlal Nehru Architecture and Fine\nArts University",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d80",
+      "uid": "UN357",
+      "university": "Potti Sreeramulu Telugu University",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d81",
+      "uid": "UN358",
+      "university": "Osmania University",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d82",
+      "uid": "UN359",
+      "university": "Palamuru University",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d83",
+      "uid": "UN360",
+      "university": "Satavahana University",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d84",
+      "uid": "UN361",
+      "university": "Telangana University",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d85",
+      "uid": "UN362",
+      "university": "Dr. B.R.Ambedkar Open University",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d86",
+      "uid": "UN363",
+      "university": "Mahatma Gandhi University",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d87",
+      "uid": "UN364",
+      "university": "National Academy of Legal Studies &\nResearch University",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d88",
+      "uid": "UN365",
+      "university": "Jawaharlal Nehru Technological\nUniversity",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d89",
+      "uid": "UN366",
+      "university": "Kakatiya University",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d8a",
+      "uid": "UN367",
+      "university": "Kaloji Narayana Rao University of Health Kakatiya Medical College Campus,\nSciences Rangampet, Warangal (U) ,\nTelangana-506007",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d8b",
+      "uid": "UN368",
+      "university": "Sri P V Narsimha Rao Telangana\nVeterinary University",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d8c",
+      "uid": "UN369",
+      "university": "Professor Jayashankar Telangana State\nAgricultural University",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d8d",
+      "uid": "UN370",
+      "university": "Sri Konda Laxman Telangana State\nHorticultural University",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d8e",
+      "uid": "UN371",
+      "university": "Nizam's Institute of Medical Sciences",
+      "State": "Telangana",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d8f",
+      "uid": "UN372",
+      "university": "Maharaja Bir Bikram University",
+      "State": "Tripura",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d90",
+      "uid": "UN373",
+      "university": "Siddharth University",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d91",
+      "uid": "UN374",
+      "university": "Harcourt Butler Technical University",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d92",
+      "uid": "UN375",
+      "university": "U.P. Pandit Deen Dayal Upadhyaya Pashu College of Veterinary Science and\nChikitsa Vigyan Vishwavidhyalaya Evam Animal Husbandry, DUVASU, Mathura\nGo-Anusandhan Sansthan Uttar Pradesh ,\nUttar Pradesh -281001",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d93",
+      "uid": "UN376",
+      "university": "Allahabad State University",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d94",
+      "uid": "UN377",
+      "university": "Uttar Pradesh University of Medical\nSciences",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d95",
+      "uid": "UN378",
+      "university": "Banda University of Agriculture &\nTechnology",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d96",
+      "uid": "UN379",
+      "university": "Jananayak Chandrashekhar University",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d97",
+      "uid": "UN380",
+      "university": "Dr. Ram Manohar Lohia Institute of",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d98",
+      "uid": "UN381",
+      "university": "King Georges Medical University",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d99",
+      "uid": "UN382",
+      "university": "University of Lucknow",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d9a",
+      "uid": "UN383",
+      "university": "Archarya Narendra Deo University of\nAgriculture & Technology",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d9b",
+      "uid": "UN384",
+      "university": "Mahatam Gandhi Kashi Vidyapeeth",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d9c",
+      "uid": "UN385",
+      "university": "Mahatma Jyotiba Phule Rohilkhand\nUniversity",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d9d",
+      "uid": "UN386",
+      "university": "Dr. B.R. Ambedkar University",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d9e",
+      "uid": "UN387",
+      "university": "Dr. Ram Manohar Lohia Awadh\nUniversity",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184d9f",
+      "uid": "UN388",
+      "university": "Dr. Ram Manohar Lohiya National Law\nUniversity",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184da0",
+      "uid": "UN389",
+      "university": "Dr. Shakuntala Misra National\nRehabilitation University",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184da1",
+      "uid": "UN390",
+      "university": "Deen Dayal Upadhyay Gorakhpur\nUniversity",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184da2",
+      "uid": "UN391",
+      "university": "Gautam Buddha University",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184da3",
+      "uid": "UN392",
+      "university": "Bundelkhand University",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184da4",
+      "uid": "UN393",
+      "university": "Chandra Shekhar Azad University of\nAgriculture & Technology",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184da5",
+      "uid": "UN394",
+      "university": "Chhatrapati Shahuji Maharaj Kanpur\nUniversity",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184da6",
+      "uid": "UN395",
+      "university": "Chaudhary Charan Singh University",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184da7",
+      "uid": "UN396",
+      "university": "U.P.King George's University of Dental\nSciences",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184da8",
+      "uid": "UN397",
+      "university": "U.P. Rajarshi Tandon Open University",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184da9",
+      "uid": "UN398",
+      "university": "Veer Bahadur Singh Purvanchal\nUniversity",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184daa",
+      "uid": "UN399",
+      "university": "Dr. A.P.J. Abdul Kalam Technical\nUniversity",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dab",
+      "uid": "UN400",
+      "university": "Sardar Vallabh Bhai Patel University of\nAgriculture & Technology",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dac",
+      "uid": "UN401",
+      "university": "Sampurnanand Sanskrit Vishwavidyalaya",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dad",
+      "uid": "UN402",
+      "university": "Khwaja Moinuddin Chishti Language University",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dae",
+      "uid": "UN403",
+      "university": "Madan Mohan Malaviya University of\nTechnology",
+      "State": "Uttar Pradesh",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184daf",
+      "uid": "UN404",
+      "university": "Veer Chandra Singh Garhwali\nUttarakhand University of Horticulture &\nForestry",
+      "State": "Uttarakhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184db0",
+      "uid": "UN405",
+      "university": "Hemvati Nandan Bahuguna Medical\nEducation University",
+      "State": "Uttarakhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184db1",
+      "uid": "UN406",
+      "university": "Uttarakhand Ayurved University",
+      "State": "Uttarakhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184db2",
+      "uid": "UN407",
+      "university": "Sri Dev Suman Uttarakhand\nVishwavidyalaya",
+      "State": "Uttarakhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184db3",
+      "uid": "UN408",
+      "university": "Uttarakhand Open University",
+      "State": "Uttarakhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184db4",
+      "uid": "UN409",
+      "university": "Uttarakhand Sanskrit University",
+      "State": "Uttarakhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184db5",
+      "uid": "UN410",
+      "university": "Uttarakhand Technical University",
+      "State": "Uttarakhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184db6",
+      "uid": "UN411",
+      "university": "G.B.Pant University of Agriculture &\nTechnology",
+      "State": "Uttarakhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184db7",
+      "uid": "UN412",
+      "university": "Doon University",
+      "State": "Uttarakhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184db8",
+      "uid": "UN413",
+      "university": "Kumaun University",
+      "State": "Uttarakhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184db9",
+      "uid": "UN414",
+      "university": "Soban Singh Jeena University",
+      "State": "Uttarakhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dba",
+      "uid": "UN415",
+      "university": "Uttarakhand Aawasiya Viswavidyalaya",
+      "State": "Uttarakhand",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dbb",
+      "uid": "UN416",
+      "university": "The Sanskrit College and University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dbc",
+      "uid": "UN417",
+      "university": "Cooch Behar Panchanan Barma University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dbd",
+      "uid": "UN418",
+      "university": "Diamond Harbour Women's University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dbe",
+      "uid": "UN419",
+      "university": "Bankura University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dbf",
+      "uid": "UN420",
+      "university": "West Bengal University of Teachers,\nTraining, Education Planning and\nAdministration",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dc0",
+      "uid": "UN421",
+      "university": "Raiganj University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dc1",
+      "uid": "UN422",
+      "university": "Rani Rashmoni Green\nUniversity(formerly West Bengal Green\nUniversity.)",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dc2",
+      "uid": "UN423",
+      "university": "Murshidabad University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dc3",
+      "uid": "UN424",
+      "university": "Sadhu Ram Chand Murmu University of\nJhargram( formerly Jhargram University)",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dc4",
+      "uid": "UN425",
+      "university": "Kanyashree University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dc5",
+      "uid": "UN426",
+      "university": "Hindi University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dc6",
+      "uid": "UN427",
+      "university": "Alipurduar University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dc7",
+      "uid": "UN428",
+      "university": "Harichand Guruchand University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dc8",
+      "uid": "UN429",
+      "university": "Dakshin Dinajpur University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dc9",
+      "uid": "UN430",
+      "university": "Kalyani University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dca",
+      "uid": "UN431",
+      "university": "Netaji Shubhash Open University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dcb",
+      "uid": "UN432",
+      "university": "University of Gour Banga",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dcc",
+      "uid": "UN433",
+      "university": "Jadavpur University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dcd",
+      "uid": "UN434",
+      "university": "Burdwan University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dce",
+      "uid": "UN435",
+      "university": "Calcutta University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dcf",
+      "uid": "UN436",
+      "university": "Bidhan Chandra Krishi Vishwavidyalaya",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dd0",
+      "uid": "UN437",
+      "university": "Aliah University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dd1",
+      "uid": "UN438",
+      "university": "University of North Bengal",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dd2",
+      "uid": "UN439",
+      "university": "Rabindra Bharati University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dd3",
+      "uid": "UN440",
+      "university": "Presidency University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dd4",
+      "uid": "UN441",
+      "university": "Sidho-Kanho-Birsha University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dd5",
+      "uid": "UN442",
+      "university": "West Bengal State University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dd6",
+      "uid": "UN443",
+      "university": "Maulana Abul Kalam Azad University of\nTechnology",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dd7",
+      "uid": "UN444",
+      "university": "West Bengal University of Animal and\nFishery Sciences",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dd8",
+      "uid": "UN445",
+      "university": "Vidya Sagar University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dd9",
+      "uid": "UN446",
+      "university": "Uttar Banga Krishi Vishwavidyalaya",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dda",
+      "uid": "UN447",
+      "university": "The West Bengal University of Health\nSciences",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ddb",
+      "uid": "UN448",
+      "university": "The West Bengal National University of\nJuridical Science",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ddc",
+      "uid": "UN449",
+      "university": "The Bengal Engineering & Science\nUniversity",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ddd",
+      "uid": "UN450",
+      "university": "Kazi Nazrul University",
+      "State": "West Bengal",
+      "approval": "Approved"
+  },
+  {
+      "_id": "6307961798affebcca184dde",
+      "uid": "Null",
+      "university": "Commercial University Ltd. Daryaganj, ",
+      "State": "Delhi",
+      "approval": "Not Approved"
+  },
+  {
+      "_id": "6307961798affebcca184ddf",
+      "uid": "Null",
+      "university": " Vocational University, ",
+      "State": "Delhi",
+      "approval": "Not Approved"
+  },
+  {
+      "_id": "6307961798affebcca184de0",
+      "uid": "Null",
+      "university": "ADR-Centric Juridical University",
+      "State": "Delhi",
+      "approval": "Not Approved"
+  },
+  {
+      "_id": "6307961798affebcca184de1",
+      "uid": "Null",
+      "university": "North Orissa University of Agriculture & Technology",
+      "State": "orrisa",
+      "approval": "Not Approved"
+  },
+  {
+      "_id": "6307961798affebcca184de2",
+      "uid": "Null",
+      "university": " Raja Arabic University",
+      "State": "mahrashtra",
+      "approval": "Not Approved"
+  },
+  {
+      "_id": "6307961798affebcca184de3",
+      "uid": "Null",
+      "university": "Urdu University",
+      "State": "Bhopal",
+      "approval": "Not Approved"
+  },
+  {
+      "_id": "6307961798affebcca184de4",
+      "uid": "Null",
+      "university": "United Nations University",
+      "State": "Delhi",
+      "approval": "Not Approved"
+  },
+  {
+      "_id": "6307961798affebcca184de5",
+      "uid": "Null",
+      "university": " Nababharat Shiksha Parishad",
+      "State": "Odisha",
+      "approval": "Not Approved"
+  },
+  {
+      "_id": "6307961798affebcca184de6",
+      "uid": "Null",
+      "university": " Sree Bodhi Academy of Higher Education",
+      "State": "puducherry",
+      "approval": "Not Approved"
+  },
+  {
+      "_id": "6307961798affebcca184de7",
+      "uid": "Null",
+      "university": "National University of Electro Complex Homeopathy",
+      "State": "uttar pradesh",
+      "approval": "Not Approved"
+  },
+  {
+      "_id": "6307961798affebcca184de8",
+      "uid": "Null",
+      "university": "Badaganvi Sarkar World Open University Education Society",
+      "State": "karnataka",
+      "approval": "Not Approved"
+  }
+]
